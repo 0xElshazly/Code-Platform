@@ -2,10 +2,11 @@
 ## Code Educational Platform <br>
 Link:
   - https://mohamedaymansaid.github.io/Code-Platform/src/ <br>
-<br>
+
+
 Using:
-  - HTML5
-  - CSS3
-  - Bootstrap
-  - Javascript
-  - JQuery
+  1 HTML5
+  2 CSS3
+  3 Bootstrap
+  4 Javascript
+  5 JQuery
