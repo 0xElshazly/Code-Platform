@@ -22,7 +22,7 @@
  
  <H1>
 <!--================================    -->
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-bongo-gif.gif" alt="icons8-pacman-48" border="0" width=42px align="center"/> software used
+  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-bongo-gif.gif" alt="icons8-pacman-48" border="0" width=42px align="center"/> Software Used
  </H1>
 <table align="center">
   <tr>
@@ -44,16 +44,16 @@
  
  <table align="center">
   <tr>
-    <td align="center"><img src="![image](https://user-images.githubusercontent.com/77213993/171317344-da4bdb6e-3388-443d-a197-18fa5db6b1af.png)"  width="600px;" align="center" alt=""/><br /><br />
+    <td align="center"><img src="https://user-images.githubusercontent.com/77213993/171317344-da4bdb6e-3388-443d-a197-18fa5db6b1af.png"  width="600px;" align="center" alt=""/><br /><br />
     </td>
     </tr>
 <tr>
   <tr>
-    <td align="center"><img src="![image](https://user-images.githubusercontent.com/77213993/171317463-c4ed69b2-3aa3-46a7-9b5c-d4de55589fe1.png)"  width="600px;" align="center" alt=""/><br /><br />
+    <td align="center"><img src="https://user-images.githubusercontent.com/77213993/171318896-55a807a4-bb57-4ecf-a39b-6b63cb5233ed.gif"  width="600px;" align="center" alt=""/><br /><br />
     </td>
     </tr>
 <tr>
-    <td align="center"><img src="![image](https://user-images.githubusercontent.com/77213993/171317420-b0f744c4-e5ec-4ea1-b8b3-4d08e4094358.png)" align="center"  width="600px;" alt=""/><br /><br />
+    <td align="center"><img src="https://user-images.githubusercontent.com/77213993/171317420-b0f744c4-e5ec-4ea1-b8b3-4d08e4094358.png" align="center"  width="600px;" alt=""/><br /><br />
     </td>
  </tr>
  <tr>
