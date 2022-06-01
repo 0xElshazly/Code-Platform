@@ -44,21 +44,17 @@
  
  <table align="center">
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/77213993/171317344-da4bdb6e-3388-443d-a197-18fa5db6b1af.png"  width="600px;" align="center" alt=""/><br /><br />
+    <td align="center"><img src="https://user-images.githubusercontent.com/77213993/171318896-55a807a4-bb57-4ecf-a39b-6b63cb5233ed.gif"  width="740px;" align="center" alt=""/><br /><br />
     </td>
     </tr>
 <tr>
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/77213993/171318896-55a807a4-bb57-4ecf-a39b-6b63cb5233ed.gif"  width="600px;" align="center" alt=""/><br /><br />
+    <td align="center"><img src="https://user-images.githubusercontent.com/77213993/171319162-84969be0-ea69-4f03-a748-1df4fecf352e.gif"  width="740px;" align="center" alt=""/><br /><br />
     </td>
     </tr>
 <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/77213993/171317420-b0f744c4-e5ec-4ea1-b8b3-4d08e4094358.png" align="center"  width="600px;" alt=""/><br /><br />
+    <td align="center"><img src="https://user-images.githubusercontent.com/77213993/171319285-8c01da5c-0008-4721-b5bf-dda23b4ca461.gif" align="center"  width="740px;" alt=""/><br /><br />
     </td>
- </tr>
- <tr>
-  <td align="center"><img src="https://mohamedaymansaid.github.io/Code-Educational-Platform/src/index.html"  width="600px;"  align="center"  alt=""/><br /><br />
-    </td> 
  </tr>
 
   </table>
