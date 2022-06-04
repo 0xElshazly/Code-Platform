@@ -18,7 +18,7 @@
 <H1>
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-sunglasses-gif.gif" alt="icons8-pacman-48" border="0" width=42px align="center"/> Overview
  </H1>
- <p align='center'>https://mohamedaymansaid.github.io/Code-Platform/src/</p>
+ <p align='center'>https://0xelshazly.github.io/Code-Platform/src/</p>
  <p align="center">
   "Code Educational Platform"Join our community of code learners to transform your career with programs designed to provide you with the skills you need to explore your own potential and potential 💛
  </p>
